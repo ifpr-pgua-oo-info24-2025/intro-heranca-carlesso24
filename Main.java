@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         Carro c = new Carro();
-        c.setMarca("Fiat");
-        c.setModelo("Uno");
-        c.setAno(2010);
+        c.setMarca("Chevrolet");
+        c.setModelo("S-10");
+        c.setAno(2024);
         c.setNumeroDePortas(4);
 
         Moto m = new Moto();
